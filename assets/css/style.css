@@ -27,10 +27,10 @@ html {
       left: 0;
       bottom: 0;
         position: absolute;
-      background: #DBA5DF;
+      background: teal;
       text-align: center;
-      font-size: 30px;
-      color: #4A5BD2;
+      font-size: 20px;
+      color: white;
         padding: 1rem;
   }
   
