@@ -34,49 +34,4 @@ html {
         padding: 1rem;
   }
   
-  /*MEDIA QUERIES*/
   
-  @media screen and (max-width: 980px){
-      #psychic-image {
-          margin-left: 175px;
-      }
-  
-      #psychic {
-          margin-left: 165px;
-      }
-  
-      #psychics-image {
-          margin-right: 180px;
-      }
-  
-  }
-  
-  
-  @media only screen and (max-width: 768px){
-  
-      #psychic {
-          margin-left: 170px;
-      }
-  
-  }
-  
-  
-  @media only screen and (max-width: 640px){
-  
-      h2 {
-          margin-left: 70px;
-      }
-  
-      #psychic-image {
-          margin-left: 150px;
-      }
-  
-      #psychic {
-          margin-left: 145px;
-      }
-  
-      #psychics-image {
-          margin-right: 100px;
-      }
-  
-  }
